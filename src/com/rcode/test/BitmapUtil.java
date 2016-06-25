@@ -61,7 +61,9 @@ public class BitmapUtil {
 			return null;
 		}
 	}
-
+  /**
+   * ceshi
+   */
 	private static final int BLACK = 0xff000000;
 
 	/**
